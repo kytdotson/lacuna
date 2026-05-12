@@ -6,6 +6,8 @@ Lacuna reimagines the desktop as an inhabited space: a modernist apartment, subt
 
 It is Microsoft Bob if Bob had been designed by someone who read too much Borges.
 
+*This project is currently a thought and design experiment. It is in semi-active development with feedback from beta users*
+
 ---
 
 ## Current Status
