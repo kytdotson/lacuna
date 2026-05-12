@@ -1,0 +1,24 @@
+# --- AI Agent & Tool Specifics ---
+# Antigravity artifacts and manager data
+.antigravity/
+.agent/
+artifacts/
+
+# Claude Code history and backups
+.claude/
+.cloud/
+# Note: CLAUDE.md is usually tracked, but individual prompt history should be ignored
+claude_history/
+
+# --- Major Pitfalls to Avoid ---
+# Critical: Claude Code has been known to back up .env contents 
+# into hidden .cloud folders.
+.env
+.env.*
+.claudeignore
+
+# Large AI-generated noise
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
